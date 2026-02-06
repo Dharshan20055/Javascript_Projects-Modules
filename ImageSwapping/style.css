@@ -12,7 +12,7 @@ body{
 .box{
     width: 200px;
     height: 200px;
-    border: 2px dashed gray;
+    border: 2px dotted gray;
     display: flex;
     align-items: center;
     justify-content: center;
