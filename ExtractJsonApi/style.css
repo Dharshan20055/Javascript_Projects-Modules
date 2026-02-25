@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(129, 129, 209);
+}
+h1{
+    color: white;
+}
+#main{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    gap: 60px;
+}
+
+.cardsdiv{
+    background-color: rgb(0, 68, 91);
+    padding: 30px;
+    text-align: center;
+    color:ghostwhite;
+}
+.title{
+    color:lightgreen;
+}
+
+#error{
+    color:rgb(125, 2, 2);
+}
